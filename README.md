@@ -1,6 +1,12 @@
 # shop_videoplayer
 repository for a processing video player on the raspberry
 
+## set time
+
+```bash
+sudo date -s '2014-12-25 12:34:56'
+```
+
 ## how to create autostart 
 
 Based on this tutorial https://electricnoodlebox.wordpress.com/tutorials/processing-raspberry-pi-auto-run-a-sketch-on-boot/
