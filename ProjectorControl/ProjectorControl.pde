@@ -1,11 +1,3 @@
-/**
- * Simple Write. 
- * 
- * Check if the mouse is over a rectangle and writes the status to the serial port. 
- * This example works with the Wiring / Arduino program that follows below.
- */
-
-
 import processing.serial.*;
 
 Serial myPort;  // Create object from Serial class
